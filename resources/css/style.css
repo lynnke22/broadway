@@ -50,5 +50,17 @@ h3{
 
 p{
   font-family: Helvetica;
-  font-size: 14px;  
+  font-size: 14px;
+}
+
+.footer{
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.btn{
+  color: white;
+font-size: 18px;
 }
