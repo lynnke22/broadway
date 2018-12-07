@@ -18,3 +18,21 @@ h1{
 body{
   text-align: center;
 }
+
+
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.sections-item p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
