@@ -36,3 +36,19 @@ h3{
   font-family: Helvetica;
   font-size: 14px;
 }
+
+.ny h2{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white
+}
+
+.ny{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+p{
+  font-family: Helvetica;
+  font-size: 14px;  
+}
